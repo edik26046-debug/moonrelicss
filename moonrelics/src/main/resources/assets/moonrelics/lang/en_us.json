@@ -1,0 +1,15 @@
+{
+  "itemGroup.moonrelics": "Moon Relics",
+  "item.moonrelics.moonstone": "Moonstone",
+  "block.moonrelics.moonstone_ore": "Moonstone Ore",
+  "block.moonrelics.deepslate_moonstone_ore": "Deepslate Moonstone Ore",
+  "block.moonrelics.moonstone_block": "Block of Moonstone",
+  "item.moonrelics.moon_sword": "Moon Blade",
+  "item.moonrelics.moon_pickaxe": "Moon Pickaxe",
+  "item.moonrelics.moon_helmet": "Moon Helmet",
+  "item.moonrelics.moon_chestplate": "Moon Chestplate",
+  "item.moonrelics.moon_leggings": "Moon Leggings",
+  "item.moonrelics.moon_boots": "Moon Boots",
+  "item.moonrelics.moon_staff": "Moon Staff",
+  "tooltip.moonrelics.moon_staff": "Right-click: lunar dash and slow falling"
+}

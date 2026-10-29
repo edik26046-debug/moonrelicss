@@ -1,0 +1,15 @@
+{
+  "itemGroup.moonrelics": "Лунные реликвии",
+  "item.moonrelics.moonstone": "Лунный камень",
+  "block.moonrelics.moonstone_ore": "Руда лунного камня",
+  "block.moonrelics.deepslate_moonstone_ore": "Глубинносланцевая руда лунного камня",
+  "block.moonrelics.moonstone_block": "Блок лунного камня",
+  "item.moonrelics.moon_sword": "Лунный клинок",
+  "item.moonrelics.moon_pickaxe": "Лунная кирка",
+  "item.moonrelics.moon_helmet": "Лунный шлем",
+  "item.moonrelics.moon_chestplate": "Лунный нагрудник",
+  "item.moonrelics.moon_leggings": "Лунные поножи",
+  "item.moonrelics.moon_boots": "Лунные ботинки",
+  "item.moonrelics.moon_staff": "Лунный посох",
+  "tooltip.moonrelics.moon_staff": "ПКМ: лунный рывок и медленное падение"
+}

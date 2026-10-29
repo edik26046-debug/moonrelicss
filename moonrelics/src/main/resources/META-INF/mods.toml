@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="moonrelics"
+version="${mod_version}"
+displayName="Moon Relics"
+description='''
+Лунный камень: руда, инструменты, броня с бонусом комплекта и Лунный посох с рывком.
+'''
+[[dependencies.moonrelics]]
+modId="forge"
+mandatory=true
+versionRange="[47.3.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.moonrelics]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

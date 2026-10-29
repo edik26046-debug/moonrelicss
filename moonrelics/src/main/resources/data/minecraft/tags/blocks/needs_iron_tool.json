@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "moonrelics:moonstone_ore",
+    "moonrelics:deepslate_moonstone_ore",
+    "moonrelics:moonstone_block"
+  ]
+}
